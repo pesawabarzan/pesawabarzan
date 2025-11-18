@@ -1,34 +1,49 @@
 <!-- 🌟 GitHub Profile README - pesawabarzan -->
 
-<h1 align="center">Hi there 👋 I'm Pesa Barzan</h1>
+<h1 align="center">Hi there 👋 I'm <span style="color:#38BDF8">Farzam Askary</span></h1>
 
 <p align="center">
   <b>Student • Developer • Tech Enthusiast</b>
 </p>
 
 <p align="center">
-  🇬🇧 English • 🇮🇷 فارسی • 🇮🇷 Finglish
+  <a href="https://FarzamAskary.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FarzamAskary.ir-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://t.me/FarzamAskary" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-FarzamAskary-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/FarzamAskary" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FarzamAskary-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:Farzamexe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Farzamexe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+<!-- 🔹 Typing Animation 1 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Student+Developer;Loves+Coding+and+Technology;Always+Learning+Something+New" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Student+Developer+from+Iran;Loves+Code%2C+Linux%2C+and+Networks;Always+Learning+%26+Building+New+Things" 
+    alt="Typing Animation 1" 
+  />
 </p>
 
 ---
 
 ## 👤 About Me | درباره من | Darbare Man
 
-<details>
+<details open>
   <summary>🇬🇧 English</summary>
   <br/>
 
-- 🧑‍🎓 I’m a high school computer student (Network & Software).  
-- 💻 I enjoy learning programming, web, and tech in general.  
-- 🧠 I like to understand how things work under the hood, not just copy-paste.  
-- 📎 This GitHub is where I share my experiments, projects and learning journey.  
-- 🤝 Feel free to check my repos and connect with me on social media.  
+- 🧑‍🎓 High school computer student (Network & Software).  
+- 💻 Interested in programming, web, Linux and networking.  
+- 🧠 I like to understand how things work under the hood, not just copy–paste code.  
+- 📂 This GitHub is where I share my projects, experiments and learning journey.  
+- 🔗 You can always reach me via my website or socials above.  
 
 </details>
 
@@ -37,10 +52,10 @@
   <br/>
 
 - 🧑‍🎓 من دانش‌آموز رشته شبکه و نرم‌افزار هستم.  
-- 💻 به برنامه‌نویسی، وب و دنیای تکنولوژی خیلی علاقه دارم.  
-- 🧠 دوست دارم بفهمم پشت صحنه‌ی چیزها چی می‌گذره، نه فقط کپی‌پیست کنم.  
-- 📎 این گیت‌هاب جاییه که تمرین‌ها، پروژه‌ها و مسیر یادگیری‌م رو می‌ذارم.  
-- 🤝 خوشحال می‌شم ریپوها رو ببینی و اگه دوست داشتی باهام در ارتباط باشی.  
+- 💻 به برنامه‌نویسی، وب، لینوکس و شبکه علاقه دارم.  
+- 🧠 دوست دارم بفهمم پشت صحنه‌ی کد و سیستم‌ها چی می‌گذره، نه این‌که فقط کپی‌پیست کنم.  
+- 📂 این گیت‌هاب جاییه که پروژه‌ها، تمرین‌ها و مسیر یادگیری‌ام رو به اشتراک می‌ذارم.  
+- 🔗 از طریق سایت و شبکه‌های اجتماعی بالا همیشه می‌تونی باهام در ارتباط باشی.  
 
 </details>
 
@@ -49,33 +64,28 @@
   <br/>
 
 - 🧑‍🎓 Man danesh-âmuz reshte-ye shabake va narm-afzâr hastam.  
-- 💻 Be barnâme-nevisi, web va donyâ-ye technology alaghe dâram.  
-- 🧠 Dust dâram bedunam vaghean posht-e sahne chizhâ chi jory kari mikone, na inke faghat copy–paste konam.  
-- 📎 In GitHub jayi-e ke تمرin-hâ, projhe-hâ va rah-e yadgiriye khodam ro share mikonam.  
-- 🤝 Khushhâl misham repo-hâ ro bebinid va age dust dâshtid bâ man dar ertebât bâshid.  
+- 💻 Be barnâme-nevisi, web, Linux va network alaghe dâram.  
+- 🧠 Dust dâram befahmam vaghean posht-e sahne-ye code o system-hâ chi juri kari mikone, na inke faghat copy–paste konam.  
+- 📂 In GitHub jayi-e ke projhe-hâ, tamrin-hâ va rah-e yâdgiriye khodam ro share mikonam.  
+- 🔗 Az tarigh-e website va social-hâ-ye bālā mituni bâ man dar ertebât bâshi.  
 
 </details>
 
 ---
 
-## 🌐 Socials
-
-<!--
-❗ این لینک‌ها رو با آیدی واقعی خودت عوض کن
-مثال:
-https://t.me/pesawabarzan
-mailto:example@gmail.com
--->
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+<!-- 🔹 Typing Animation 2 (Tech themed) -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Code+%7C+Learn+%7C+Build;Front-end+%2B+Back-end+Basics;Git+%7C+Linux+%7C+Networking" 
+    alt="Typing Animation 2" 
+  />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-> چیزایی که الان کم‌کم می‌تونی روشون کار کنی و یاد بگیری. هرچی رو دوست نداشتی، خیلی راحت حذفش کن.
+> هرچی رو واقعاً دوست نداری یا هنوز باهاش کار نکردی، راحت می‌تونی پاکش کنی 👇
 
 ### 👨‍💻 Programming
 
@@ -92,7 +102,7 @@ mailto:example@gmail.com
 ### 🖧 OS & Networking
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### ⚙️ Tools
 
@@ -102,33 +112,51 @@ mailto:example@gmail.com
 
 ---
 
+## 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pesawabarzan&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<!-- یوزرنیم روی pesawabarzan تنظیم شده -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pesawabarzan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pesawabarzan&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+    alt="Dev Quote" 
+  />
 </p>
 
 ---
 
-### 🔢 Visitor Count
+## 🔢 Visitor Count
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
@@ -137,5 +165,5 @@ mailto:example@gmail.com
 </p>
 
 <!--
-اگر این پروفایل رو دیدی و خوشت اومد، یه ⭐ روی یکی از ریپو‌هام بزنی خوشحال می‌شم :)
+If you liked this profile, a ⭐ on one of my repos would make my day :)
 -->
