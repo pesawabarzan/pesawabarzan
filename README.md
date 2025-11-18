@@ -1,49 +1,70 @@
 <!-- 🌟 GitHub Profile README - pesawabarzan -->
 
-<h1 align="center">Hi there 👋 I'm Farzam (Pesa Barzan)</h1>
+<h1 align="center">Hi there 👋 I'm Pesa Barzan</h1>
 
 <p align="center">
-  🇬🇧 12th grade Computer student (Network & Software) & future software/network engineer <br/>
-  🇮🇷 دانش‌آموز پایه ۱۲ رشته شبکه و نرم‌افزار و عاشق برنامه‌نویسی <br/>
-  🇮🇷 Danesh-âmuz paye 12 reshte-ye shabake va narm-afzâr, del-baste-ye code zadan 😄
+  <b>Student • Developer • Tech Enthusiast</b>
+</p>
+
+<p align="center">
+  🇬🇧 English • 🇮🇷 فارسی • 🇮🇷 Finglish
 </p>
 
 ---
 
-## 🌍 About Me | درباره من | Darbare Man
-
-### 🇬🇧 English
-
-- 🎓 I’m a 12th grade computer student (Network & Software).  
-- 💻 I love coding, Linux, networking, and building real projects not just theory.  
-- 📚 I’m preparing for the 1405 university entrance exam with a big goal in mind.  
-- 🚀 My dream is to become a strong developer & engineer who builds useful stuff for others.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Student+Developer;Loves+Coding+and+Technology;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🇮🇷 فارسی
+## 👤 About Me | درباره من | Darbare Man
 
-- 🎓 دانش‌آموز پایه ۱۲ رشته شبکه و نرم‌افزار هستم.  
-- 💻 عاشق برنامه‌نویسی، لینوکس، شبکه و ساختن پروژه‌های واقعی هستم، نه فقط تئوری.  
-- 📚 دارم برای کنکور ۱۴۰۵ با هدف‌گذاری جدی و بلندمدت آماده می‌شم.  
-- 🚀 رویای من اینه که تبدیل بشم به یه دولوپر و مهندس قوی که چیزای کاربردی برای بقیه می‌سازه.  
+<details>
+  <summary>🇬🇧 English</summary>
+  <br/>
+
+- 🧑‍🎓 I’m a high school computer student (Network & Software).  
+- 💻 I enjoy learning programming, web, and tech in general.  
+- 🧠 I like to understand how things work under the hood, not just copy-paste.  
+- 📎 This GitHub is where I share my experiments, projects and learning journey.  
+- 🤝 Feel free to check my repos and connect with me on social media.  
+
+</details>
+
+<details>
+  <summary>🇮🇷 فارسی</summary>
+  <br/>
+
+- 🧑‍🎓 من دانش‌آموز رشته شبکه و نرم‌افزار هستم.  
+- 💻 به برنامه‌نویسی، وب و دنیای تکنولوژی خیلی علاقه دارم.  
+- 🧠 دوست دارم بفهمم پشت صحنه‌ی چیزها چی می‌گذره، نه فقط کپی‌پیست کنم.  
+- 📎 این گیت‌هاب جاییه که تمرین‌ها، پروژه‌ها و مسیر یادگیری‌م رو می‌ذارم.  
+- 🤝 خوشحال می‌شم ریپوها رو ببینی و اگه دوست داشتی باهام در ارتباط باشی.  
+
+</details>
+
+<details>
+  <summary>🇮🇷 Finglish</summary>
+  <br/>
+
+- 🧑‍🎓 Man danesh-âmuz reshte-ye shabake va narm-afzâr hastam.  
+- 💻 Be barnâme-nevisi, web va donyâ-ye technology alaghe dâram.  
+- 🧠 Dust dâram bedunam vaghean posht-e sahne chizhâ chi jory kari mikone, na inke faghat copy–paste konam.  
+- 📎 In GitHub jayi-e ke تمرin-hâ, projhe-hâ va rah-e yadgiriye khodam ro share mikonam.  
+- 🤝 Khushhâl misham repo-hâ ro bebinid va age dust dâshtid bâ man dar ertebât bâshid.  
+
+</details>
 
 ---
 
-### 🇮🇷 Finglish
+## 🌐 Socials
 
-- 🎓 Man danesh-âmuz paye 12 reshte-ye shabake va narm-afzâr hastam.  
-- 💻 Be barnâme-nevisi, Linux, network va sâkhtane projeye vaghe’i alaghe dâram, na faghat teori.  
-- 📚 Daram barâye konkure 1405 jeddi kari mikonam va barâm ahdaf-e boland-modat daram.  
-- 🚀 Royâ-ye man ine ke be ye developer o engineer-e ghavi tabdil besham ke chiz-hâye kârbordi barâye digarân misaze.  
-
----
-
-## 🌐 Socials | شبکه‌های اجتماعی
-
-<!-- 
-❗ این لینک‌ها رو با آیدی واقعی خودت عوض کن 
-مثال: https://t.me/pesawabarzan
+<!--
+❗ این لینک‌ها رو با آیدی واقعی خودت عوض کن
+مثال:
+https://t.me/pesawabarzan
+mailto:example@gmail.com
 -->
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
@@ -52,9 +73,9 @@
 
 ---
 
-## 💻 Tech Stack | ابزارها و تکنولوژی‌ها
+## 💻 Tech Stack
 
-> سعی کردم چیزایی بذارم که برای سطح دانش‌آموزی منطقی باشه. هرچیزی رو بلد نیستی می‌تونی حذف/تغییر بدی.
+> چیزایی که الان کم‌کم می‌تونی روشون کار کنی و یاد بگیری. هرچی رو دوست نداشتی، خیلی راحت حذفش کن.
 
 ### 👨‍💻 Programming
 
@@ -81,54 +102,40 @@
 
 ---
 
-## 📊 GitHub Stats | آمار گیت‌هاب
+## 📊 GitHub Stats
 
-<!-- ❗ حتماً یوزرنیم رو گذاشتم روی: pesawabarzan -->
+<!-- یوزرنیم روی pesawabarzan تنظیم شده -->
 
-![](https://github-readme-stats.vercel.app/api?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pesawabarzan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pesawabarzan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesawabarzan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote | نقل‌قول تصادفی برنامه‌نویسی
+### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🎯 Goals | اهداف
-
-### 🇬🇧 English
-
-- [ ] Finish 12th grade with strong fundamentals in programming & networking  
-- [ ] Solve coding problems regularly (at least a few per week)  
-- [ ] Build and upload real projects on GitHub  
-- [ ] Prepare seriously for the 1405 entrance exam  
-- [ ] Contribute to at least one open-source project  
-
-### 🇮🇷 فارسی
-
-- [ ] تقویت مفاهیم پایه برنامه‌نویسی و شبکه تا پایان پایه ۱۲  
-- [ ] حل منظم سوالات برنامه‌نویسی (حداقل چندتا در هفته)  
-- [ ] ساخت و منتشر کردن پروژه‌های واقعی روی گیت‌هاب  
-- [ ] آمادگی جدی برای کنکور ۱۴۰۵  
-- [ ] مشارکت در حداقل یک پروژه اوپن‌سورس  
-
-### 🇮🇷 Finglish
-
-- [ ] Taghviat mafâhim-e pâye-ye barnâme-nevisi va shabake ta payâne paye 12  
-- [ ] Hall-e monazzam-e soalât-e barnâme-nevisi (hadaghal chand tâ dar hafte)  
-- [ ] Sâkht va montasher kardan-e projeye vaghe’i rooye GitHub  
-- [ ] Âmâdegi-ye jeddi barâye konkure 1405  
-- [ ] Mosharakat dar hadeaghal yek proje-ye open-source  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
 ### 🔢 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=pesawabarzan&icon=0&color=5)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pesawabarzan&icon=0&color=5" alt="Profile Views" />
+  </a>
+</p>
 
-<!-- 
-اگر این پروفایل رو دیدی و خوشت اومد، یه ⭐ روی یکی از ریپو‌هام بزنی خیلی خوشحال می‌شم :)
+<!--
+اگر این پروفایل رو دیدی و خوشت اومد، یه ⭐ روی یکی از ریپو‌هام بزنی خوشحال می‌شم :)
 -->
